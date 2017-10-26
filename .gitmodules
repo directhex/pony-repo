@@ -1,0 +1,3 @@
+[submodule "arbitrary-submodule-with-PR-merge-as-latest"]
+	path = arbitrary-submodule-with-PR-merge-as-latest
+	url = git@github.com:directhex/wrench-aggregator.git
